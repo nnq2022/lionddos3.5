@@ -27,4 +27,4 @@ This tool can be used on Linux Operating Systems Only! Like Ubuntu,Debian,etc. A
 
 You Cannot Steal our code and tell people its yours! We Take Copyright very seriously!
 
-© All Rights Reserved A.E.S.R.T GROUP
+© All Rights LionDDoS Version 3.5
